@@ -1,0 +1,48 @@
+{
+  "name": "com.gokhanisik.aimindicators",
+  "version": "1.0.0",
+  "displayName": "Aim Indicators",
+  "description": "Unity 6+ uyumlu dört farklı tip nişan göstergesi paketi. Cone (Koni), Line (Çizgi), Target (Daire/Hedef) ve Parabolic (Parabolik) nişan göstergeleri içerir. Fill efektleri ve Inspector'dan özelleştirilebilir parametreler ile world space çalışma desteği.",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/GokhanIsik87/UnityPackages",
+  "changelogUrl": "https://github.com/GokhanIsik87/UnityPackages/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/GokhanIsik87/UnityPackages/blob/main/LICENSE.md",
+  "keywords": [
+    "aim",
+    "indicator",
+    "targeting",
+    "ui",
+    "visualization",
+    "cone",
+    "line", 
+    "target",
+    "parabolic",
+    "trajectory",
+    "nisangoestergesi",
+    "hedef",
+    "gorsel"
+  ],
+  "author": {
+    "name": "Gökhan Işık",
+    "email": "gokhanisik87@gmail.com",
+    "url": "https://github.com/GokhanIsik87"
+  },
+  "type": "library",
+  "hideInEditor": false,
+  "testables": [
+    "com.gokhanisik.aimindicators"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Aim Indicators",
+      "description": "Temel nişan göstergesi örnekleri ve kullanım senaryoları",
+      "path": "Samples~/BasicExamples"
+    }
+  ],
+  "dependencies": {},
+  "repository": {
+    "url": "https://github.com/GokhanIsik87/UnityPackages.git",
+    "type": "git"
+  }
+}
