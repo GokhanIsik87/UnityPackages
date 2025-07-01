@@ -1,0 +1,43 @@
+{
+  "name": "com.gokhanisik.aimindicators",
+  "version": "1.0.0",
+  "displayName": "Aim Indicators",
+  "description": "Unity 6+ compatible aim indicator package with four different types: Cone, Line, Target, and Parabolic indicators. Each includes customizable fill effects and Inspector parameters for easy use in world space.",
+  "unity": "6000.0",
+  "unityRelease": "0b13",
+  "documentationUrl": "https://github.com/GokhanIsik87/UnityPackages",
+  "changelogUrl": "https://github.com/GokhanIsik87/UnityPackages/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/GokhanIsik87/UnityPackages/blob/main/LICENSE",
+  "keywords": [
+    "aim",
+    "indicator",
+    "targeting",
+    "ui",
+    "gameplay",
+    "cone",
+    "line",
+    "target",
+    "parabolic",
+    "trajectory",
+    "aiming",
+    "crosshair",
+    "worldspace"
+  ],
+  "author": {
+    "name": "Gokhan Isik",
+    "email": "",
+    "url": "https://github.com/GokhanIsik87"
+  },
+  "type": "library",
+  "hideInEditor": false,
+  "testables": [
+    "com.gokhanisik.aimindicators"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Usage Examples",
+      "description": "Basic examples showing how to use each aim indicator type",
+      "path": "Samples~/BasicUsage"
+    }
+  ]
+}
